@@ -1,0 +1,25 @@
+body {
+    color: rgb(162, 222, 162);
+    background: rgb(5, 47, 5);
+    margin: 0px;
+    font-family: "Pirata One", sans-serif;
+}
+
+header {
+    border-bottom: solid 20px rgb(61, 93, 40);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(66, 134, 66);
+}
+
+section {
+    background: rgb(76, 194, 76)d;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-tetxo {
+    margin-right: 5%;
+}
