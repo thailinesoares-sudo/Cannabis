@@ -1,25 +1,24 @@
-body {
-    color: rgb(162, 222, 162);
-    background: rgb(5, 47, 5);
+body{
+    color: green;
+    background: rgb(136, 197, 99);
     margin: 0px;
-    font-family: "Pirata One", sans-serif;
+    font-family: "Permanent Marker", sans-serif;
 }
-
-header {
-    border-bottom: solid 20px rgb(61, 93, 40);
+header{
+    border-bottom: solid 2px rgb(200, 225, 186
     padding: 20px;
     font-size: 32px;
-    color: rgb(66, 134, 66);
+    color:rgb(148, 163, 81);
 }
 
-section {
-    background: rgb(76, 194, 76)d;
+section{
+    background: white;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 
-.chamada-tetxo {
+.chamada-texto{
     margin-right: 5%;
 }
