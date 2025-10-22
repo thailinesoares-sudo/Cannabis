@@ -4,7 +4,7 @@ body{
     margin: 0px;
     font-family: "Permanent Marker", sans-serif;
 }
-header{
+header{ 
     border-bottom: solid 2px rgb(200, 225, 186
     padding: 20px;
     font-size: 32px;
@@ -21,4 +21,4 @@ section{
 
 .chamada-texto{
     margin-right: 5%;
-}
+} 
